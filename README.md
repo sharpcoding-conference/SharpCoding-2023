@@ -1,8 +1,8 @@
-# WeBuild Conference 2023
+# SharpBuild Conference 2023
 
 <img width="700" src="https://github.com/engineering87/TechnicalSessions/blob/main/Posters/WeBuild2023.jpg" style="vertical-align:middle"> 
 
-Webuild è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
+SharpBuild è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
 
 La conferenza, organizzata dalla Community SharpCoding ospitati su di The Communities Bay, è completamente gratuita e a libera partecipazione.
 
